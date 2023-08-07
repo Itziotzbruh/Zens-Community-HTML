@@ -44,8 +44,7 @@
   position: fixed;
   align-items: center;
   flex-direction: column;
-  backdrop-filter: blur(70px);
-  justify-content: center;
+  backdrop-filter: blur(10px);
   background-color: rgba(63, 63, 63, 0.82);
 }
 .home-navbar {
@@ -59,7 +58,7 @@
   padding-right: 56px;
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tripleunit);
-  backdrop-filter: 70px;
+  backdrop-filter: 10px;
   justify-content: space-between;
   background-color: rgba(99, 99, 99, 0);
 }
