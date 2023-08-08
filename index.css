@@ -404,7 +404,7 @@
     margin-bottom: var(--dl-space-space-fourunits);
   }
   .home-heading {
-    color: rgb(4, 4, 4);
+    color: #ffffff;
     align-self: flex-start;
     text-align: left;
   }
@@ -450,7 +450,7 @@
     align-items: flex-start;
   }
   .home-heading {
-    color: rgb(4, 4, 4);
+    color: #ffffff;
   }
   .home-text01 {
     font-size: 80px;
